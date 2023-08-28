@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aab9f6ac.css",
-    "main.js": "/static/js/main.3e3124d0.js",
+    "main.css": "/static/css/main.4e19de4d.css",
+    "main.js": "/static/js/main.0b04a90b.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/portfolio1.gif": "/static/media/portfolio1.e4c4c4ff1f769802dfb9.gif",
     "static/media/portfolio3.gif": "/static/media/portfolio3.4de47559c805266df0f9.gif",
@@ -34,17 +34,17 @@
     "static/media/pajamas_github.svg": "/static/media/pajamas_github.728c8acdaf5341e099be74009c78cfab.svg",
     "static/media/logos_css-3.svg": "/static/media/logos_css-3.e3dfd2362b5b0b94104e73aec2447026.svg",
     "static/media/logos_figma.svg": "/static/media/logos_figma.f21fcb7c60e0a2a377dd86c088c03e96.svg",
-    "static/media/octicon_x-12.svg": "/static/media/octicon_x-12.f260e62fcafe10eb6231.svg",
+    "static/media/octicon_x-12.svg": "/static/media/octicon_x-12.2615b8801cb61c52a88b.svg",
     "static/media/topBtn.svg": "/static/media/topBtn.a29146358d988b809398c211f4ece80c.svg",
     "index.html": "/index.html",
     "static/media/ep_arrow-left-bold1.svg": "/static/media/ep_arrow-left-bold1.c49db87b2e7edfbb4742.svg",
     "static/media/ep_arrow-left-bold.svg": "/static/media/ep_arrow-left-bold.46500025ad8f01ad9276.svg",
-    "main.aab9f6ac.css.map": "/static/css/main.aab9f6ac.css.map",
-    "main.3e3124d0.js.map": "/static/js/main.3e3124d0.js.map",
+    "main.4e19de4d.css.map": "/static/css/main.4e19de4d.css.map",
+    "main.0b04a90b.js.map": "/static/js/main.0b04a90b.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab9f6ac.css",
-    "static/js/main.3e3124d0.js"
+    "static/css/main.4e19de4d.css",
+    "static/js/main.0b04a90b.js"
   ]
 }
