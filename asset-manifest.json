@@ -1,12 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.40324c3a.css",
-    "main.js": "/static/js/main.c8194e84.js",
+    "main.css": "/static/css/main.4334e165.css",
+    "main.js": "/static/js/main.ff09591f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/portfolio1.gif": "/static/media/portfolio1.e4c4c4ff1f769802dfb9.gif",
-    "static/media/portfolio3.gif": "/static/media/portfolio3.4de47559c805266df0f9.gif",
-    "static/media/portfolio4.gif": "/static/media/portfolio4.1187d4ca88cb0d10ae66.gif",
-    "static/media/portfolio2.gif": "/static/media/portfolio2.4f7185c367cfdbf61d38.gif",
     "static/media/2020 예비창업패키지 선정 인증서.jpg": "/static/media/2020 예비창업패키지 선정 인증서.a215affca4fbbc4039a5.jpg",
     "static/media/CAP_창업300.jpeg": "/static/media/CAP_창업300.0f14d88b3c7c762fccda.jpeg",
     "static/media/졸업 작품.jpeg": "/static/media/졸업 작품.ceae292671c0d64ea073.jpeg",
@@ -39,12 +35,12 @@
     "index.html": "/index.html",
     "static/media/ep_arrow-left-bold1.svg": "/static/media/ep_arrow-left-bold1.c49db87b2e7edfbb4742.svg",
     "static/media/ep_arrow-left-bold.svg": "/static/media/ep_arrow-left-bold.46500025ad8f01ad9276.svg",
-    "main.40324c3a.css.map": "/static/css/main.40324c3a.css.map",
-    "main.c8194e84.js.map": "/static/js/main.c8194e84.js.map",
+    "main.4334e165.css.map": "/static/css/main.4334e165.css.map",
+    "main.ff09591f.js.map": "/static/js/main.ff09591f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40324c3a.css",
-    "static/js/main.c8194e84.js"
+    "static/css/main.4334e165.css",
+    "static/js/main.ff09591f.js"
   ]
 }
