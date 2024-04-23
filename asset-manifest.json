@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e69c3d2.css",
-    "main.js": "/static/js/main.72c49599.js",
+    "main.css": "/static/css/main.6b45e040.css",
+    "main.js": "/static/js/main.f6f04bb6.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/2020 예비창업패키지 선정 인증서.jpg": "/static/media/2020 예비창업패키지 선정 인증서.a215affca4fbbc4039a5.jpg",
     "static/media/CAP_창업300.jpeg": "/static/media/CAP_창업300.0f14d88b3c7c762fccda.jpeg",
@@ -11,10 +11,6 @@
     "static/media/WTA.jpeg": "/static/media/WTA.6cf2525c41d856addac3.jpeg",
     "static/media/profile.jpeg": "/static/media/profile.d5c1adecfa397d9902f5.jpeg",
     "static/media/WM_창엄300.jpeg": "/static/media/WM_창엄300.d9295a91c1319715dea1.jpeg",
-    "static/media/수다미 내부.jpeg": "/static/media/수다미 내부.c0a2a8a1abbe418fe531.jpeg",
-    "static/media/수다미 정면.jpeg": "/static/media/수다미 정면.c622d1e7ede05448af4e.jpeg",
-    "static/media/옆면.jpeg": "/static/media/옆면.636c3e8376b15d139a60.jpeg",
-    "static/media/수다미 설계.jpeg": "/static/media/수다미 설계.bfa1051788a56edac8c8.jpeg",
     "static/media/skill-icons_postman.svg": "/static/media/skill-icons_postman.c4da0452d8ffac8aff4c4999a87da0a3.svg",
     "static/media/skill-icons_styledcomponents.svg": "/static/media/skill-icons_styledcomponents.fbced6b7d2c2b0171bbe29908853a952.svg",
     "static/media/logos_react.svg": "/static/media/logos_react.ceec598938e5b3aaddcd606c0f6187af.svg",
@@ -35,12 +31,12 @@
     "index.html": "/index.html",
     "static/media/ep_arrow-left-bold1.svg": "/static/media/ep_arrow-left-bold1.c49db87b2e7edfbb4742.svg",
     "static/media/ep_arrow-left-bold.svg": "/static/media/ep_arrow-left-bold.46500025ad8f01ad9276.svg",
-    "main.1e69c3d2.css.map": "/static/css/main.1e69c3d2.css.map",
-    "main.72c49599.js.map": "/static/js/main.72c49599.js.map",
+    "main.6b45e040.css.map": "/static/css/main.6b45e040.css.map",
+    "main.f6f04bb6.js.map": "/static/js/main.f6f04bb6.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e69c3d2.css",
-    "static/js/main.72c49599.js"
+    "static/css/main.6b45e040.css",
+    "static/js/main.f6f04bb6.js"
   ]
 }
