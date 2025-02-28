@@ -12,9 +12,9 @@
 
 # 🧩 프로젝트 🧩
 - 인원: Solo
-- 제작 기간: 2023.08.12 ~ 2023.08.23
+- 제작 기간: 2024.06.01 ~ 2024.06.06 (6일)
 - 배포링크:   [📎 임민규의 포트폴리오](https://nile27.github.io/)
-- Figma:   [📎 Figma](https://www.figma.com/file/g0fMpeE9IiQ8Ww1Vd37qBd/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(UI)?type=design&node-id=0-1&mode=design&t=PjBLYVJr7YN8MlHJ-0)
+- Figma:   [📎 Figma](https://www.figma.com/design/qZze2sAfNDqL95ranIaSfr/Untitled?node-id=0-1&t=slBmJx0GDgf6fumO-0)
 
 
 # 🧩 기술 스택 🧩
@@ -24,11 +24,11 @@
 
 <div align="left">
 	<img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactResponsive-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  
 </div>
 
 ## 🛠️ETC🛠️
